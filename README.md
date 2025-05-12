@@ -2,7 +2,6 @@
 ### Olá! Eu sou o Felicio Cavalcante 🖐️
 
 ![Felicio Cavalcante GitHub stats](https://github-readme-stats.vercel.app/api?username=feliciocavalcante&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feliciocavalcante&hide_progress=true)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliciocavalcante&layout=compact&langs_count=7&theme=dracula"/>
 
 #
