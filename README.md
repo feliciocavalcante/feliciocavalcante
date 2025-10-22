@@ -32,10 +32,11 @@ Apaixonado por tecnologia e desenvolvimento web, estou me aprimorando em Full St
 
 ### 🧩 Projetos em Destaque
 
-- 🛍️ [**Loja RN Boutique**]([https://github.com/feliciocavalcante/lojarnboutique](https://feliciocavalcante.github.io/LojaRevianeNovais/)) — Site responsivo de e-commerce feito com HTML, CSS e JavaScript.  
-- 🎓 [**Colégio Angelus**]([https://github.com/feliciocavalcante/invictosidiomas](https://feliciocavalcante.github.io/colegio-angelus/)) — Landing page moderna para escola de infantil.  
-- 👟 [**Trip Tênis**]([https://github.com/feliciocavalcante/triptenis](https://react-teste-ruddy.vercel.app/)) — Catálogo de produtos com carrossel e responsividade.  
-- 🍽️ [**Organize Já**]([https://github.com/feliciocavalcante/sistema-reservas](https://organize-ja-rx3q.vercel.app/)) — Aplicação web com CRUD e integração front/back.
+- 🛍️ [**Loja RN Boutique**](https://feliciocavalcante.github.io/LojaRevianeNovais/) — Site responsivo de e-commerce feito com HTML, CSS e JavaScript.  
+- 🏫 [**Colégio Angelus**](https://feliciocavalcante.github.io/colegio-angelus/) — Landing page moderna para escola infantil.  
+- 👟 [**Trip Tênis**](https://react-teste-ruddy.vercel.app/) — Catálogo de produtos com carrossel e responsividade.  
+- 🗂️ [**Organize Já**](https://organize-ja-rx3q.vercel.app/) — Aplicação web com CRUD e integração entre front-end e back-end.
+
 
 ---
 
