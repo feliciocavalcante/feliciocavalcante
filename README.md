@@ -9,8 +9,8 @@ Apaixonado por tecnologia e desenvolvimento web, estou me aprimorando em Full St
 ### ⚙️ GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=feliciocavalcante&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliciocavalcante&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=feliciocavalcante&theme=dracula"/>
+  <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=feliciocavalcante&theme=dracula&exclude={exclude}"/>
 </div>
 
 ---
