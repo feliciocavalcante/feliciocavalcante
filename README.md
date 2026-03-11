@@ -3,7 +3,7 @@
 ### 👋 Olá! Eu sou o Felicio Cavalcante  
 
 
-Apaixonado por tecnologia e desenvolvimento web, estou me aprimorando em Full Stack para criar experiências digitais que façam a diferença.
+Desenvolvedor Full Stack dedicado à criação de soluções digitais escaláveis e experiências de usuário de alto impacto.
 
 ---
 ### ⚙️ GitHub Stats
