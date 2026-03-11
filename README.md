@@ -32,10 +32,10 @@ Desenvolvedor Full Stack dedicado à criação de soluções digitais escalávei
 
 ### 🧩 Projetos em Destaque
 
+- 🗂️ [**Organize Já**](https://organize-ja-rx3q.vercel.app/) — Aplicação web com CRUD e integração entre front-end e back-end.
 - 🛍️ [**Loja RN Boutique**](https://feliciocavalcante.github.io/LojaRevianeNovais/) — Site responsivo de e-commerce feito com HTML, CSS e JavaScript.  
 - 🏫 [**Colégio Angelus**](https://feliciocavalcante.github.io/colegio-angelus/) — Landing page moderna para escola infantil.  
 - 👟 [**Trip Tênis**](https://react-teste-ruddy.vercel.app/) — Catálogo de produtos com carrossel e responsividade.  
-- 🗂️ [**Organize Já**](https://organize-ja-rx3q.vercel.app/) — Aplicação web com CRUD e integração entre front-end e back-end.
 
 
 ---
